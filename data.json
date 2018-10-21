@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "month": 6,
+      "workingDays": 20,
+      "workedHours": 149.5
+    },
+    {
+      "month": 7,
+      "workingDays": 17,
+      "workedHours": 140.75
+    },
+    {
+      "month": 8,
+      "workingDays": 17,
+      "workedHours": 98
+    },
+    {
+      "month": 9,
+      "workingDays": 20,
+      "workedHours": 158
+    },
+    {
+      "month": 10,
+      "workingDays": 21,
+      "workedHours": 160
+    },
+    {
+      "month": 11,
+      "workingDays": 12,
+      "workedHours": 98.25
+    },
+    {
+      "month": 0,
+      "workingDays": 17,
+      "workedHours": 137.75
+    },
+    {
+      "month": 1,
+      "workingDays": 14,
+      "workedHours": 103.5
+    },
+    {
+      "month": 2,
+      "workingDays": 21,
+      "workedHours": 156.5
+    },
+    {
+      "month": 3,
+      "workingDays": 14,
+      "workedHours": 103.25
+    },
+    {
+      "month": 4,
+      "workingDays": 21,
+      "workedHours": 156.5
+    },
+    {
+      "month": 5,
+      "workingDays": 18,
+      "workedHours": 115.75
+    },
+    {
+      "month": 6,
+      "workingDays": 20,
+      "workedHours": 152
+    },
+    {
+      "month": 7,
+      "workingDays": 9,
+      "workedHours": 65
+    },
+    {
+      "month": 8,
+      "workingDays": 21,
+      "workedHours": 151.5
+    },
+    {
+      "month": 9,
+      "workingDays": 21,
+      "workedHours": 130.75
+    },
+    {
+      "month": 10,
+      "workingDays": 21,
+      "workedHours": 142
+    },
+    {
+      "month": 11,
+      "workingDays": 12,
+      "workedHours": 122.25
+    },
+    {
+      "month": 0,
+      "workingDays": 14,
+      "workedHours": 111.5
+    },
+    {
+      "month": 1,
+      "workingDays": 12,
+      "workedHours": 103.75
+    },
+    {
+      "month": 2,
+      "workingDays": 17,
+      "workedHours": 138.75
+    },
+    {
+      "month": 3,
+      "workingDays": 14,
+      "workedHours": 124.75
+    },
+    {
+      "month": 4,
+      "workingDays": 19,
+      "workedHours": 151
+    },
+    {
+      "month": 5,
+      "workingDays": 21,
+      "workedHours": 152
+    },
+    {
+      "month": 6,
+      "workingDays": 17,
+      "workedHours": 138.75
+    },
+    {
+      "month": 7,
+      "workingDays": 17,
+      "workedHours": 130.25
+    },
+    {
+      "month": 8,
+      "workingDays": 15,
+      "workedHours": 116.75
+    }
+  ]
+}

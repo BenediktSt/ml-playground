@@ -1,0 +1,14 @@
+{
+  "name": "text-classification",
+  "version": "1.0.0",
+  "description": "Text classification example with tensorflow.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.13.0"
+  }
+}
